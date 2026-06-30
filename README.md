@@ -1,4 +1,6 @@
-# 🛠️ Cloud-Native & DevOps Infrastructure Lab
+# 🛠️ Enterprise DevOps & Kubernetes Engineering Profile
+
+### 👋 Hi, I'm a Cloud-Native & DevOps Infrastructure Engineer
 
 An ultra-lean, high-efficiency DevOps & Kubernetes local engineering sandbox. Built, hardened, and maintained entirely on bare-metal architecture using strict resource-optimisation and declarative infrastructure patterns.
 
@@ -33,4 +35,7 @@ An ultra-lean, high-efficiency DevOps & Kubernetes local engineering sandbox. Bu
 
 Enterprise Blueprint Translation: Mapping 15+ years of core enterprise ITSM logic (BMC Remedy Developer/Admin) into clean, immutable, declarative Infrastructure-as-Code (IaC) architectures.
 
-📫 Status: Dual South African & British Citizen | Available for UK, EU, and SA Contract & Permanent roles (No sponsorship required).
+----
+
+📫 **Status:** Dual South African & British Citizen | Fully Eligible to Work in the UK & SA (No Sponsorship Required). Available for Remote UK Contracts and Local/Remote SA Roles.
+
