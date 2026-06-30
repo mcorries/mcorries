@@ -3,7 +3,7 @@
 An ultra-lean, high-efficiency DevOps & Kubernetes local engineering sandbox. Built, hardened, and maintained entirely on bare-metal architecture using strict resource-optimisation and declarative infrastructure patterns.
 
 ## 🎛️ Architecture Overview
-
+```
   [ GitHub Webhook ] ──( via ngrok )──> [ Jenkins (Win 11 Host) ]
                                                    │
                                             ( Pipeline Execution )
@@ -21,7 +21,7 @@ An ultra-lean, high-efficiency DevOps & Kubernetes local engineering sandbox. Bu
                                                    │
                                        [ Portainer Business Edition ]
                                         ( State & Pod Observability )
-
+```
 ## 🚀 Hardening & Optimisation Highlights
 * Zero-Wrapper Performance: Bypassed Docker Desktop overhead by running a native standalone Docker engine inside WSL2 managed directly by systemd (cgroups v2).
 * Kernel & Runtime Version Locking: Hardened against environment drift and upstream hypervisor bugs (e.g., WSL 2.7.8 I/O regression) by pinning WSL to v2.7.3 and executing `apt-mark hold` on core `docker` and `containerd` packages.
